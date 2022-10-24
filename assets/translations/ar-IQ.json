@@ -1,0 +1,127 @@
+{
+    "home":"الصفحة الرئيسية",
+    "category":"الفئة",
+    "call_us":"اتصل بنا",
+    "kabsa":"كبسة",
+    "arabic_dish":"طبق عربي",
+    "arabic_appetizers":"مقبلات عربية",
+    "arabian_fish":"أسماك عربية",
+    "ingredients":"مكونات",
+    "nutritional_information":"معلومات غذائية",
+    "all_products":"جميع المنتجات",
+    "loaing_data":"فقدان البيانات ...",
+    "You_are_offline_please_check_your_internet":"أنت غير متصل ، يرجى التحقق من الإنترنت الخاص بك",
+    "Back_online":"يرجع متصل",
+    "Updated":"محدث",
+    "Product name":"اسم المنتج",
+    "todays_special":"خاص اليوم",
+    "no_data":"لم يتم العثور على طبق في هذه الفئة",
+    "not_connected_to_internet":"غير متصل بالإنترنت",
+    "feedback":"تجربتك",
+    "tap_back_again_to_leave":"انقر مرة أخرى للمغادرة",
+    "scan_order_number_now":"مسح الباركود من إيصال بربين",
+    "enter_order_number_manually":"أدخل رقم الطلب يدويًا",
+    "submit":"إرسال",
+    "please_scan_your_brbene_printed_receipt_QR_code_to_continue":"يرجى مسح رمز الاستجابة السريعة الخاص بإيصال Brbene المطبوع ضوئيًا للمتابعة",
+    "enter_order_number":"أدخل رقم الطلب",
+    "taste_of_food":"مستوى الطعام؟",
+    "prices":"الأسعار؟",
+    "restaurant_environment":"بيئة المطعم؟",
+    "services":"مستوى الخدمة؟",
+    "staff_behaviour":"سلوك الموظفين؟",
+    "thank_you":"شكرا لك. نأمل أن تكون تجربتك رائعة ولا يسعنا الانتظار لرؤيتك مرة أخرى قريبًا.",
+    "homepage":"الصفحة الرئيسية",
+    "your_comments_feedback" :"تعليقاتك / ملاحظاتك",
+    "error":"خطأ",
+    "please_rate_us_for_the_food_taste":"يرجى تقييمنا لمذاق الطعام",
+    "please_rate_us_for_our_prices":"يرجى تقييمنا بأسعارنا",
+    "please_rate_us_for_our_cleanliness":"يرجى تقييم نظافتنا",
+    "please_rate_us_for_our_services":"يرجى تقييمنا لخدماتنا",
+    "please_rate_us_for_our_staff_behaviour":"يرجى تقييمنا لسلوك موظفينا",
+    "Okay":"تمام",
+    "great":"باهر",
+    "feedback_saved_successfully":"تم حفظ التعليقات بنجاح",
+    "oh_no":"أوه لا",
+    "already_saved_feedback_regarding_this_barcode_qr_code":"ملاحظات محفوظة بالفعل بخصوص هذا الرمز الشريطي / رمز الاستجابة السريعة",
+    "more":"أكثر",
+    "show_less":"عرض أقل",
+    "alert":"إنذار",
+    "permission_denied":"طلب الاذن مرفوض",
+    "cleanliness":"مستوى النظافة؟",
+    "feedback_saved_successfully_in database":"تم حفظ الملاحظات في قاعدة البيانات بنجاح",
+    "last_sync_time":"وقت آخر مزامنة",
+    "sync_now":"المزامنة الآن",
+    "you_are_accessing_a_password_protected_screen":"أنت تقوم بالوصول إلى شاشة محمية بكلمة مرور",
+    "where_you_will_be_able_to_sync_feedbacks_and_local_cache":"حيث ستكون قادرًا على مزامنة التعليقات وذاكرة التخزين المؤقت المحلية",
+    "button_below_to_enter_secure_password":"انقر فوق الزر أدناه لإدخال كلمة المرور الآمنة",
+    "good":"جيد",
+    "all_feedbacks_synced":"تتم مزامنة جميع الردود",
+    "verify":"يؤكد",
+    "cancel":"يلغي",
+    "enter_secure_passcode":"أدخل رمز مرور آمن",
+    "delete":"حذف",
+    "enter_password":"أدخل كلمة المرور",
+    "confirm":"يتأكد",
+    "your_phone_number":"رقم تليفونك",
+    "please_enter_your_phone_number":"يرجى إدخال رقم الهاتف الخاص بك"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
